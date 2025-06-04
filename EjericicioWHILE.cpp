@@ -24,5 +24,6 @@ int main(){
             cout << "Intentos: " << intentos << endl;
         }
     }while(num != numI || intentos != 5);
+
     
 }

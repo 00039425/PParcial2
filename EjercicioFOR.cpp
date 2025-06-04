@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int n = 0, resultado = 0;
+    int num = 0, resultado = 0;
     
     cout << "Ingrese cuantos numeros naturales quiere sumar" << endl;
     cin >> n;
@@ -18,5 +18,5 @@ int main()
      
     }
     
-    cout << "La suma de los primeros " << n << " numeros naturales es: " << resultado << endl;
+    cout << "La suma de los primeros " << num << " numeros naturales es: " << resultado << endl;
 }
